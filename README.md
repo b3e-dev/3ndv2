@@ -1,18 +1,9 @@
-<!--
-  b3e-dev / GitHub Profile README
-  Accent color used throughout: #9EAAFF (soft blue)
-  NOTE: GitHub renders profile READMEs using the *viewer's* own light/dark
-  setting — a page can't force dark mode. Everything below is built to look
-  good in both, and especially clean in dark mode, since all badges/text use
-  the accent color on a transparent background rather than a solid light box.
--->
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=9EAAFF&height=200&section=header&text=b3e&fontSize=70&fontColor=0D1117&fontAlignY=38&animation=fadeIn" width="100%" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=9EAAFF&center=true&vCenter=true&width=520&lines=Game+Developer;Unity+%2B+Python;Building+a+Psychological+Horror+Game;Probably+debugging+something+right+now" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=9EAAFF&center=true&vCenter=true&width=520&lines=game+dev;unity+%2B+python;building+a+psychological+horror+game;prolly+stuck+in+school+rn" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -20,11 +11,11 @@
   <img src="https://img.shields.io/github/followers/b3e-dev?style=flat-square&color=9EAAFF&label=Followers" />
 </p>
 
-<h1 align="center">🕹️ About Me</h1>
+<h1 align="center">About me</h1>
 
-I'm **b3e** — a game developer working mainly in **Unity**, with **Python** for tools and scripts on the side. Right now most of my time goes into a **psychological horror game**, plus whatever side project or bug is currently keeping me up too late.
+i am **b3e**, i'm a game dev working mainly in **unity** and **python** for games/coding projects i have on the side. rn i'm spending most of my time developing a psychological horror game + whatever side project i'm workin on.
 
-<h1 align="center">🎮 Current Project</h1>
+<h1 align="center">Current project</h1>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Status-In%20Development-9EAAFF?style=for-the-badge" />
@@ -32,16 +23,14 @@ I'm **b3e** — a game developer working mainly in **Unity**, with **Python** fo
   <img src="https://img.shields.io/badge/Genre-Psychological%20Horror-9EAAFF?style=for-the-badge" />
 </p>
 
-**Untitled Psychological Horror Game** — a Steam title currently in development.
-Steam wishlist link coming soon.
+**Untitled Psychological Horror Game**: Steam title currently in dev
+Steam wishlist link coming soon...
 
-<h1 align="center">🧠 Fun Facts</h1>
-
-- 💻 Coding in **Python**, **JavaScript**, **C#**, and **Lua**
-- 🎮 Playing Minecraft, Fortnite, Terraria, Helldivers, and pretty much any random horror game on Steam
-- ❤️ Hanging out with my girlfriend or friends
-- 🛠️ Always working on *something*
-- 📚 SCHOOL AGHHH
+| coding in **Python**, **JavaScript**, **C#** and **Lua**
+| playing mc, fortnite, terraria, helldivers, and pretty much any random horror game on steam
+| hanging out with my girlfriend or friends
+| always working on *something*
+| SCHOOL AGHHH
 
 <h1 align="center">🤝 The Team</h1>
 
