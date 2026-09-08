@@ -1,7 +1,7 @@
 <h1 align="center">i am b3e</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=2000&color=9EAAFF&center=true&vCenter=true&width=440&lines=Game+Dev;the+guys:+J031-S,+TunaBaited+and+MMKF" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=9EAAFF&center=true&vCenter=true&width=440&lines=Game+Dev;the+guys:+J031-S,+TunaBaited+and+MMKF" alt="Typing SVG" />
 </p>
 
 <p align="center">
