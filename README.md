@@ -23,73 +23,40 @@ i am **b3e**, i'm a game dev working mainly in **unity** and **python** for game
   <img src="https://img.shields.io/badge/Genre-Psychological%20Horror-9EAAFF?style=for-the-badge" />
 </p>
 
-**Absence + Aberration**: Steam title currently in dev<br></br>
+**Absence + Aberration**: Steam title currently in dev<br>
 Steam wishlist link coming soon...
-<br></br>
-<br></br>
-| coding in **Python**, **JavaScript**, **C#** and **Lua**<br></br>
-| playing mc, fortnite, terraria, helldivers, and pretty much any random horror game on steam<br></br>
-| hanging out with my girlfriend or friends<br></br>
-| always working on *something*<br></br>
-| SCHOOL AGHHH<br></br>
+
+<h1 align="center">Stuff im doing</h1>
+
+| coding in **Python**, **JavaScript**, **C#** and **Lua**<br>
+| playing mc, fortnite, terraria, helldivers, and pretty much any random horror game on steam<br>
+| hanging out with my girlfriend or friends<br>
+| always working on *something*<br>
+| SCHOOL AGHHH
 
 <h1 align="center">The guys</h1>
 
-[**@J031-S**](https://github.com/J031-S) | Helldivers fanatic
-[**@TunaBaited**](https://github.com/TunaBaited) | Helldivers fanatic
-[**@MichaelK-F**](https://github.com/MichaelK-F) | Catgirl uwu
+<div align="center">
+
+| guy | what they are |
+|:---:|:---:|
+| [**@J031-S**](https://github.com/J031-S) | helldivers fanatic |
+| [**@TunaBaited**](https://github.com/TunaBaited) | helldivers fanatic |
+| [**@MichaelK-F**](https://github.com/MichaelK-F) | catgirl 'uwu' |
+
+</div>
 
 <h1 align="center">My socials and stuff</h1>
 
 <p align="center">
   <a href="https://discord.gg/your-invite-code">
-    <img src="https://img.shields.io/badge/Discord-Join-9EAAFF?style=for-the-badge&logo=discord&logoColor=white" />
+    <img src="https://img.shields.io/badge/Discord-Join (not working for now)-9EAAFF?style=for-the-badge&logo=discord&logoColor=white" />
   </a>
-  <a href="https://youtube.com/@brickatick">
-    <img src="https://img.shields.io/badge/YouTube-@brickatick-9EAAFF?style=for-the-badge&logo=youtube&logoColor=white" />
+  <a href="https://youtube.com/@b3e-dev">
+    <img src="https://img.shields.io/badge/Youtube-b3e-9EAAFF?style=for-the-badge&logo=youtube&logoColor=white" />
   </a>
 </p>
 
-<h1 align="center">My git contributions</h1>
-
 <p align="center">
-  <img src="https://raw.githubusercontent.com/b3e-dev/b3e-dev/output/github-contribution-grid-snake-dark.svg" width="100%" />
-</p>
-
-<!--
-  ⚠️ SETUP NEEDED for the snake graph above to actually appear:
-  1. In your `b3e-dev/b3e-dev` repo, add this file:
-     .github/workflows/snake.yml
-
-  2. Paste this into it:
-
-     name: generate snake
-     on:
-       schedule:
-         - cron: "0 */6 * * *"
-       workflow_dispatch: {}
-       push:
-         branches: [ main ]
-     jobs:
-       generate:
-         runs-on: ubuntu-latest
-         steps:
-           - uses: Platane/snk@v3
-             with:
-               github_user_name: b3e-dev
-               outputs: |
-                 dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-           - uses: crazy-max/ghaction-github-pages@v4
-             with:
-               target_branch: output
-               build_dir: dist
-             env:
-               GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
-  3. Commit it, then run the workflow once manually (Actions tab → Run workflow).
-     After that it updates itself every 6 hours.
--->
-
-<p align="center">
-  <sub>Last updated with ☕ and probably too little sleep.</sub>
+  <sub>i dont get any sleep help</sub>
 </p>
