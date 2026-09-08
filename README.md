@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Jordan 👋</h1>
+<h1 align="center">Hi there, I'm b3e</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2EA3FF&center=true&vCenter=true&width=440&lines=Full-Stack+Developer;Open+Source+Enthusiast;Coffee+%2B+Code+%3D+%E2%9D%A4%EF%B8%8F" alt="Typing SVG" />
@@ -64,15 +64,13 @@ Shields.io badges accept any hex color after `color=` (or a named color like `bl
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=b3e-dev&show_icons=true&theme=tokyonight" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=b3e-dev&theme=tokyonight" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" width="50%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=b3e-dev&layout=compact&theme=tokyonight" width="50%" />
 </p>
-
-> Replace `YOUR_USERNAME` above with your actual GitHub username — these images are generated live.
 
 ---
 
@@ -87,22 +85,6 @@ Shields.io badges accept any hex color after `color=` (or a named color like `bl
 <!-- Profile photo, circular, small -->
 <img src="https://your-image-url.com/avatar.png" width="120" style="border-radius: 50%;" />
 ```
-
----
-
-## 🌐 Connect With Me
-
-<p align="center">
-  <a href="https://linkedin.com/in/yourhandle">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://twitter.com/yourhandle">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
-  </a>
-  <a href="mailto:you@example.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
 
 ---
 
