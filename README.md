@@ -1,98 +1,113 @@
-<h1 align="center">i am b3e</h1>
+<!--
+  b3e-dev / GitHub Profile README
+  Accent color used throughout: #9EAAFF (soft blue)
+  NOTE: GitHub renders profile READMEs using the *viewer's* own light/dark
+  setting — a page can't force dark mode. Everything below is built to look
+  good in both, and especially clean in dark mode, since all badges/text use
+  the accent color on a transparent background rather than a solid light box.
+-->
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=9EAAFF&center=true&vCenter=true&width=440&lines=Game+Dev;the+guys:+J031-S,+TunaBaited+and+MMKF" alt="Typing SVG" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=9EAAFF&height=200&section=header&text=b3e&fontSize=70&fontColor=0D1117&fontAlignY=38&animation=fadeIn" width="100%" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Status-Available%20for%20work-2ea44f?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Location-Perth%2C%20Australia-orange?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Focus-Web%20%26%20Cloud-blueviolet?style=for-the-badge" />
-</p>
-
----
-
-## 🚀 About Me
-
-I'm a software developer who loves building clean, useful products. Here's a bit about me:
-
-- 🔭 I'm currently working on **a SaaS dashboard tool**
-- 🌱 I'm currently learning **Rust and WebAssembly**
-- 💬 Ask me about **React, Node.js, or system design**
-- ⚡ Fun fact: I once debugged a production issue at 3am with a cat asleep on my keyboard
-
-### 🎯 Quick Facts
-
-| | |
-|---|---|
-| 🌍 Based in | Perth, Australia |
-| 💼 Role | Full-Stack Developer |
-| 📚 Currently reading | *Designing Data-Intensive Applications* |
-| 🎮 Hobby | Retro game dev |
-
----
-
-## 🛠️ Tech Stack
-
-**Languages**
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-
-**Frameworks & Tools**
-
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-
-#### Badge color reference
-Shields.io badges accept any hex color after `color=` (or a named color like `blue`, `orange`, `success`, `critical`). A few handy ones:
-
-| Name | Hex | Preview |
-|---|---|---|
-| Blue | `#2EA3FF` | ![blue](https://img.shields.io/badge/-2EA3FF?style=flat-square&color=2EA3FF) |
-| Green | `#2ea44f` | ![green](https://img.shields.io/badge/-2ea44f?style=flat-square&color=2ea44f) |
-| Purple | `#8250df` | ![purple](https://img.shields.io/badge/-8250df?style=flat-square&color=8250df) |
-| Orange | `#ff8c00` | ![orange](https://img.shields.io/badge/-ff8c00?style=flat-square&color=ff8c00) |
-| Pink | `#ff5d8f` | ![pink](https://img.shields.io/badge/-ff5d8f?style=flat-square&color=ff5d8f) |
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=b3e-dev&show_icons=true&theme=tokyonight" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=b3e-dev&theme=tokyonight" width="48%" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=9EAAFF&center=true&vCenter=true&width=520&lines=Game+Developer;Unity+%2B+Python;Building+a+Psychological+Horror+Game;Probably+debugging+something+right+now" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=b3e-dev&layout=compact&theme=tokyonight" width="50%" />
+  <img src="https://komarev.com/ghpvc/?username=b3e-dev&style=flat-square&color=9EAAFF&label=Profile+Views" />
+  <img src="https://img.shields.io/github/followers/b3e-dev?style=flat-square&color=9EAAFF&label=Followers" />
 </p>
 
----
+<h1 align="center">🕹️ About Me</h1>
 
-### 🖼️ Adding your own images
+I'm **b3e** — a game developer working mainly in **Unity**, with **Python** for tools and scripts on the side. Right now most of my time goes into a **psychological horror game**, plus whatever side project or bug is currently keeping me up too late.
 
-```md
-<!-- Simple centered image -->
+<h1 align="center">🎮 Current Project</h1>
+
 <p align="center">
-  <img src="https://your-image-url.com/banner.png" width="600" alt="Banner" />
+  <img src="https://img.shields.io/badge/Status-In%20Development-9EAAFF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Engine-Unity-9EAAFF?style=for-the-badge&logo=unity&logoColor=white" />
+  <img src="https://img.shields.io/badge/Genre-Psychological%20Horror-9EAAFF?style=for-the-badge" />
 </p>
 
-<!-- Profile photo, circular, small -->
-<img src="https://your-image-url.com/avatar.png" width="120" style="border-radius: 50%;" />
-```
+**Untitled Psychological Horror Game** — a Steam title currently in development.
+Steam wishlist link coming soon.
 
----
+<h1 align="center">🧠 Fun Facts</h1>
 
-<p align="center"><i>Heading sizes used above: H1 (title), H2 (section), H3 (subsection) — Markdown supports up to H6.</i></p>
+- 💻 Coding in **Python**, **JavaScript**, **C#**, and **Lua**
+- 🎮 Playing Minecraft, Fortnite, Terraria, Helldivers, and pretty much any random horror game on Steam
+- ❤️ Hanging out with my girlfriend or friends
+- 🛠️ Always working on *something*
+- 📚 SCHOOL AGHHH
+
+<h1 align="center">🤝 The Team</h1>
+
+<p align="center">A few friends worth tagging:</p>
+
+<div align="center">
+
+| Member | Role |
+|:---:|:---:|
+| [**@J031-S**](https://github.com/J031-S) | 🎖️ Helldivers Fanatic |
+| [**@TunaBaited**](https://github.com/TunaBaited) | 🎖️ Helldivers Fanatic |
+| [**@MMKF**](https://github.com/MMKF) | 🐱 Catgirl |
+
+</div>
+
+<h1 align="center">🔗 Connect</h1>
+
+<p align="center">
+  <a href="https://discord.gg/your-invite-code">
+    <img src="https://img.shields.io/badge/Discord-Join%20the%20server-9EAAFF?style=for-the-badge&logo=discord&logoColor=white" />
+  </a>
+  <a href="https://youtube.com/@brickatick">
+    <img src="https://img.shields.io/badge/YouTube-@brickatick-9EAAFF?style=for-the-badge&logo=youtube&logoColor=white" />
+  </a>
+</p>
+
+<h1 align="center">🐍 Contribution Snake</h1>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/b3e-dev/b3e-dev/output/github-contribution-grid-snake-dark.svg" width="100%" />
+</p>
 
 <!--
-# H1 — Biggest, usually just your name/title once
-## H2 — Major sections (About, Skills, Stats, Connect)
-### H3 — Subsections within a section
-#### H4 — Rarely needed, small notes/labels
+  ⚠️ SETUP NEEDED for the snake graph above to actually appear:
+  1. In your `b3e-dev/b3e-dev` repo, add this file:
+     .github/workflows/snake.yml
+
+  2. Paste this into it:
+
+     name: generate snake
+     on:
+       schedule:
+         - cron: "0 */6 * * *"
+       workflow_dispatch: {}
+       push:
+         branches: [ main ]
+     jobs:
+       generate:
+         runs-on: ubuntu-latest
+         steps:
+           - uses: Platane/snk@v3
+             with:
+               github_user_name: b3e-dev
+               outputs: |
+                 dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+           - uses: crazy-max/ghaction-github-pages@v4
+             with:
+               target_branch: output
+               build_dir: dist
+             env:
+               GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+  3. Commit it, then run the workflow once manually (Actions tab → Run workflow).
+     After that it updates itself every 6 hours.
 -->
+
+<p align="center">
+  <sub>Last updated with ☕ and probably too little sleep.</sub>
+</p>
