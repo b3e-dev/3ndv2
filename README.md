@@ -1,7 +1,7 @@
-<h1 align="center">Hi there, I'm b3e</h1>
+<h1 align="center">i am b3e</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2EA3FF&center=true&vCenter=true&width=440&lines=Full-Stack+Developer;Open+Source+Enthusiast;Coffee+%2B+Code+%3D+%E2%9D%A4%EF%B8%8F" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2EA3FF&center=true&vCenter=true&width=440&lines=Game Dev;My friends are: J031-S and MMKF;Coffee+%2B+Code+%3D+%E2%9D%A4%EF%B8%8F" alt="Typing SVG" />
 </p>
 
 <p align="center">
