@@ -23,41 +23,34 @@ i am **b3e**, i'm a game dev working mainly in **unity** and **python** for game
   <img src="https://img.shields.io/badge/Genre-Psychological%20Horror-9EAAFF?style=for-the-badge" />
 </p>
 
-**Untitled Psychological Horror Game**: Steam title currently in dev
+**Absence + Aberration**: Steam title currently in dev<br></br>
 Steam wishlist link coming soon...
+<br></br>
+<br></br>
+| coding in **Python**, **JavaScript**, **C#** and **Lua**<br></br>
+| playing mc, fortnite, terraria, helldivers, and pretty much any random horror game on steam<br></br>
+| hanging out with my girlfriend or friends<br></br>
+| always working on *something*<br></br>
+| SCHOOL AGHHH<br></br>
 
-| coding in **Python**, **JavaScript**, **C#** and **Lua**
-| playing mc, fortnite, terraria, helldivers, and pretty much any random horror game on steam
-| hanging out with my girlfriend or friends
-| always working on *something*
-| SCHOOL AGHHH
+<h1 align="center">The guys</h1>
 
-<h1 align="center">🤝 The Team</h1>
+[**@J031-S**](https://github.com/J031-S) | Helldivers fanatic
+[**@TunaBaited**](https://github.com/TunaBaited) | Helldivers fanatic
+[**@MichaelK-F**](https://github.com/MichaelK-F) | Catgirl uwu
 
-<p align="center">A few friends worth tagging:</p>
-
-<div align="center">
-
-| Member | Role |
-|:---:|:---:|
-| [**@J031-S**](https://github.com/J031-S) | 🎖️ Helldivers Fanatic |
-| [**@TunaBaited**](https://github.com/TunaBaited) | 🎖️ Helldivers Fanatic |
-| [**@MMKF**](https://github.com/MMKF) | 🐱 Catgirl |
-
-</div>
-
-<h1 align="center">🔗 Connect</h1>
+<h1 align="center">My socials and stuff</h1>
 
 <p align="center">
   <a href="https://discord.gg/your-invite-code">
-    <img src="https://img.shields.io/badge/Discord-Join%20the%20server-9EAAFF?style=for-the-badge&logo=discord&logoColor=white" />
+    <img src="https://img.shields.io/badge/Discord-Join-9EAAFF?style=for-the-badge&logo=discord&logoColor=white" />
   </a>
   <a href="https://youtube.com/@brickatick">
     <img src="https://img.shields.io/badge/YouTube-@brickatick-9EAAFF?style=for-the-badge&logo=youtube&logoColor=white" />
   </a>
 </p>
 
-<h1 align="center">🐍 Contribution Snake</h1>
+<h1 align="center">My git contributions</h1>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/b3e-dev/b3e-dev/output/github-contribution-grid-snake-dark.svg" width="100%" />
